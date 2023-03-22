@@ -1,0 +1,4 @@
+*.sqlite
+*.csv
+target
+output*
